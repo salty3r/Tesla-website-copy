@@ -1,0 +1,2 @@
+tut  from: https://www.youtube.com/watch?v=S_oLr_np4S8&ab_channel=midulive 
+Deploy: https://teslacopy00.netlify.app/
